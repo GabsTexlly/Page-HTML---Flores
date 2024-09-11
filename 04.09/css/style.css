@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nerko+One&family=Playwrite+CU:wght@100..400&display=swap');
+
+body{
+
+background-color: #D2B48C;
+
+}
+
+h1 {
+    text-align: center;
+    color: 	#A0522D;
+    font-family: "Playwrite CU", cursive;
+    font-weight: lighter;
+}
+
+p {
+ text-align: center;
+ color: #8B4513;
+ font-family: "Montserrat", cursive;
+}
+
+
+.img {
+    display: flex;
+    width: 400px;
+    margin: 0 auto;
+}
+
